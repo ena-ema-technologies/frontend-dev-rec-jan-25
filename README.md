@@ -10,7 +10,7 @@
 ---
 
 **Task overview:**
-Build a web application where users can easily input and keep track of their daily expenses in different categories. This app will assist users in managing their finances by organizing, summarizing, and setting limits on their spending.
+Build a web application where users can easily input and keep track of their daily expenses in different categories. This app will assist users in managing their finances by organizing, summarizing, and setting limits on their spending. We've included some drawings of the user interface for you to check out. Take a look at the attached drawing at the bottom to get an idea of how the user interface will look!
 
 **Functional Requirements:**
 
@@ -90,6 +90,16 @@ Build a web application where users can easily input and keep track of their dai
 
 - You will have **5 days** to complete this task. Please send your completed task (GitHub repository link) in public mode and the deployment link by replying to the email we sent you. Thank you!
 
+### Timeline:
+
+### Screen when application starts:
+
 ![Startup Screen](img/application_startup.jpg)
+
+### When user insert expanse:
+
 ![Expense Input](img/data_insert.jpg)
+
+### Expanse summaries from inserted data:
+
 ![Showing expanse summery](img/summeries_page.jpg)
