@@ -1,16 +1,16 @@
-### **"Dynamic Task Management Application with Basic Backend Integration"**
+### **"Expense Tracking Dynamic Web Application with Basic Backend Integration"**
 
 ---
 
 ### Important Notice:
 
     - You can ignore this assessment task, if you are not agree with our offered salary.
-    - Please note: Completing the task does **not** guarantee that you will move on to the next step.
+    - Please note: Completing the task does not **guarantee**  that you will move on to the next step.
 
 ---
 
 **Task overview:**
-Develop a web application that allows users to input and track their daily expenses across various categories. The application should help users manage their finances by categorizing, summarizing, and limiting expenses.
+Build a web application where users can easily input and keep track of their daily expenses in different categories. This app will assist users in managing their finances by organizing, summarizing, and setting limits on their spending.
 
 **Functional Requirements:**
 
@@ -22,18 +22,18 @@ Develop a web application that allows users to input and track their daily expen
 
 2. **Expenses Management:**
 
-   - Expenses are stored in a MongoDB database.
+   - Expenses are stored in your MongoDB database.
    - Users can input expenses multiple times per day.
 
 3. **Summary Page:**
 
-- The application should display a categorized summary of the user’s expenses for each day.
-- The total daily expenses should be calculated and displayed under the specific date.
-- Tooltips should be shown when users hover over any expense field, revealing more detailed information about the purpose of the expense.
+   - The application should display a categorized summary of the user’s expenses for each day.
+   - The total daily expenses should be calculated and displayed under the specific date.
+   - Tooltips should be shown when users hover over any expense field, revealing more detailed information about the purpose of the expense.
 
 4. **Spending Limit:**
 
-   - Upon starting, the user should be prompted to set a monthly spending limit.
+   - Upon starting this application, the user should be prompted to set a monthly spending limit.
    - Users can set a spending limit for each category (e.g., Groceries: $200, Transportation: $50).
    - Users should not be able to add expenses that exceed the set limits.
    - The system should alert users when they have reached their spending limit for any specific categories
@@ -52,7 +52,7 @@ Develop a web application that allows users to input and track their daily expen
 
 **Backend Integration:**
 
-- The backend should be built using Node.js and Express.js, with MongoDB for data storage.
+- The backend should be built using Node.js (Express.js), with MongoDB for data storage.
 - Create simple API endpoints for:
   - Creating a task (`POST /api/tasks`)
   - Retrieving tasks (`GET /api/tasks`)
@@ -63,13 +63,13 @@ Develop a web application that allows users to input and track their daily expen
 **Restrictions:**
 
 - Please don't use any CSS libraries
-- Please use Next.js as frontEnd frameworks
-- Style your application using raw CSS / inline styles
+- Please use Next.js only as frontEnd frameworks
+- Style your application using raw CSS not any CSS libraries
 
 **Non-Functional Requirements:**
 
 - Code should be clean, modular, and maintainable, with appropriate comments explaining key parts.
-- The application must be a single-page application and fully functional without page reloads.
+- The application can be single/multiple page application and fully functional without page reloads.
 - Avoid using unnecessary dependencies; only use essential packages.
 
 **Submission Guidelines:**
@@ -88,4 +88,8 @@ Develop a web application that allows users to input and track their daily expen
 
 ### Timeline:
 
-- You will have **4-5 days** to complete this task. Please send your completed task github repository link in (private mode), Deployment link, by replying to the email we sent you. Thank you!
+- You will have **5 days** to complete this task. Please send your completed task (GitHub repository link) in public mode and the deployment link by replying to the email we sent you. Thank you!
+
+![Startup Screen](img/application_startup.jpg)
+![Expense Input](img/data_insert.jpg)
+![Showing expanse summery](img/summeries_page.jpg)
