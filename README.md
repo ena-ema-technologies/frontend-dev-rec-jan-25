@@ -5,7 +5,7 @@
 ### Important Notice:
 
     - You can ignore this assessment task, if you are not agree with our offered salary.
-    - Please note: Completing the task does not **guarantee**  that you will move on to the next step.
+    - Please note: Completing the task does not **guarantee**  that you will move on to the next round.
 
 ---
 
@@ -90,8 +90,6 @@ Build a web application where users can easily input and keep track of their dai
 
 - You will have **5 days** to complete this task. Please send your completed task (GitHub repository link) in public mode and the deployment link by replying to the email we sent you. Thank you!
 
-### Timeline:
-
 ### Screen when application starts:
 
 ![Startup Screen](img/application_startup.jpg)
@@ -100,6 +98,6 @@ Build a web application where users can easily input and keep track of their dai
 
 ![Expense Input](img/data_insert.jpg)
 
-### Expanse summaries from inserted data:
+### Expanse summaries from inserted data, make sure to show full month:
 
 ![Showing expanse summery](img/summeries_page.jpg)
